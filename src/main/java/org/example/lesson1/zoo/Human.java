@@ -1,9 +1,7 @@
-package org.example.zoo;
+package org.example.lesson1.zoo;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
-
-import java.util.Map;
 
 @Component
 public class Human {

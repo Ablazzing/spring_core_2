@@ -1,16 +1,12 @@
-package org.example;
+package org.example.lesson1;
 
-import org.example.config.MyConfig;
-import org.example.factory.Human;
-import org.example.factory.Sanych;
-import org.example.factory.ToyotaFactory;
-import org.example.factory.ToyotaFactory2;
-import org.example.zoo.Car;
-import org.example.zoo.Cat;
-import org.example.zoo.Zoo;
+import org.example.lesson1.config.MyConfig;
+import org.example.lesson1.factory.Human;
+import org.example.lesson1.factory.Sanych;
+import org.example.lesson1.factory.ToyotaFactory;
+import org.example.lesson1.factory.ToyotaFactory2;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
-import java.util.HashMap;
 import java.util.Map;
 
 public class Runner {

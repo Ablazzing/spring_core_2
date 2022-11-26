@@ -1,6 +1,4 @@
-package org.example.factory;
-
-import org.example.factory.Human;
+package org.example.lesson1.factory;
 
 public class Sanych implements Human {
     private String color;

@@ -1,4 +1,4 @@
-package org.example.zoo;
+package org.example.lesson1.zoo;
 
 import org.springframework.stereotype.Component;
 

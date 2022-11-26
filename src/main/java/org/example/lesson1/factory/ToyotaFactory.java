@@ -1,6 +1,5 @@
-package org.example.factory;
+package org.example.lesson1.factory;
 
-import lombok.Getter;
 import lombok.ToString;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;

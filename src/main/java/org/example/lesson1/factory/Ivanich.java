@@ -1,9 +1,9 @@
-package org.example.factory;
+package org.example.lesson1.factory;
 
 import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Component;
 
-@Component("dylin")
+@Component
 @Primary
-public class Mihalych implements Human {
+public class Ivanich implements Human{
 }
